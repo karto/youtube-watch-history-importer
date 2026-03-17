@@ -1,0 +1,6 @@
+/.pi/
+/.venv/
+/.zed/
+/tmp/
+__pycache__
+.pytest_cache
